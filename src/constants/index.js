@@ -125,9 +125,9 @@ const experiences = [
     company_name: "Samsung Prism",
     icon: samsung,
     iconBg: "#383E56",
-    date: "June 2023 - Dec 2023",
+    date: "May 2023 - Dec 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js and other related technologies for the Project mono audio to stero audio conversion",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -151,12 +151,12 @@ const experiences = [
     company_name: "Sequai",
     icon: secqai,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2023 - Jun 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed a machine learning model for regulating the temprature of the coolant mechanism for the Photon Reactor  ",
+      "The model mimics the PID controller and has been trained over extensive PID data",
+      "Implemented the model using the LSTM neural network ",
+      "Currently working on training the model using the SNN (Spiked Neural Network).",
     ],
   },
   {
@@ -164,7 +164,7 @@ const experiences = [
     company_name: "Newton School",
     icon: newtonschool,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "March 2023 - April 2023",
     points: [
       "Created and reviewed Real-life programming questions and test problems created by other problem setters along with their test cases for frontend technologies (HTML, CSS, JS & React)",
       "Created assessment-based multiple choice questions for learning outcomes for the frontend technologies (HTML, CSS, JS & React).",
