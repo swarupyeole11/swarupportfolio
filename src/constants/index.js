@@ -166,7 +166,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Create and review Real-life programming questions and test problems created by other problem setters along with their test cases for frontend technologies (HTML, CSS, JS & React)",
+      "Created and reviewed Real-life programming questions and test problems created by other problem setters along with their test cases for frontend technologies (HTML, CSS, JS & React)",
       "Created assessment-based multiple choice questions for learning outcomes for the frontend technologies (HTML, CSS, JS & React).",
       "Implemented and ensured best practices are followed in all technical content also performed testing using cypress.",
       "Work closely with the team to ensure we help enable students to have the best full-stack talent.",
