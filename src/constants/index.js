@@ -203,16 +203,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "D-Travel",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      " A Decentarlized Web-based platform that allows users to search, book, and manage cabs from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "nextls",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "sanity DB",
         color: "green-text-gradient",
       },
       {
@@ -221,28 +221,28 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/swarupyeole11/Dtravel",
   },
   {
-    name: "Job IT",
+    name: "V-Share",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A fully Responsive Web application that enables users to upload their short videos from their accounts.It also provides features like and comment. For authentication it uses the latest Google O-Auth",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "typescript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/swarupyeole11/VideoShare.git",
   },
   {
     name: "Trip Guide",
@@ -263,7 +263,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/swarupyeole11/travelwebsite",
   },
 ];
 
